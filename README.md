@@ -1,5 +1,5 @@
 # ロボットシステム学課題２
 # 概要
-ラズベリーパイを
-# YouTube
+ラズベリーパイでROSを使い，
+# デモ動画
 https://youtu.be/aElCqNaaCMg
